@@ -5287,6 +5287,7 @@
 0.0.0.0 diskord.ru.com
 0.0.0.0 disneyembroiderycards.com
 0.0.0.0 disneyswap.org
+0.0.0.0 disocrde.gift
 0.0.0.0 disorde.gift
 0.0.0.0 disordpromotlons.com
 0.0.0.0 disords.gift
@@ -6765,6 +6766,7 @@
 0.0.0.0 fandeoma.com
 0.0.0.0 fandocean.com
 0.0.0.0 fanicalam.com
+0.0.0.0 fanido.tk
 0.0.0.0 fanplplpgeinv1-tech.info
 0.0.0.0 fansomencal.com
 0.0.0.0 fantameca.com
@@ -10621,6 +10623,7 @@
 0.0.0.0 kurtkanorthfacepl.com
 0.0.0.0 kurtkaspyderpolska.com
 0.0.0.0 kurtkiwyprzedaz.pl
+0.0.0.0 kushawahaenterprisesmaner.com
 0.0.0.0 kuszowka.pl
 0.0.0.0 kutar1.maymaxy.xyz
 0.0.0.0 kvs08a.webwave.dev
@@ -13743,6 +13746,7 @@
 0.0.0.0 o-lx-pl.provisservices.xyz
 0.0.0.0 olx-pl.przelew-99412.bond
 0.0.0.0 olx-pl.przelew-expresowy.click
+0.0.0.0 olx.pl-przesylka.link
 0.0.0.0 olx.pl-przesylka.live
 0.0.0.0 olx-pl.pukupka-05050.pl
 0.0.0.0 olx.plpuygt.xyz
@@ -13759,6 +13763,7 @@
 0.0.0.0 olx.pl.rek-transfer.pw
 0.0.0.0 olx-pl.retr-wawe.me
 0.0.0.0 olx-pl.rwq-11256sfsdzmk.com
+0.0.0.0 olx-pl.sad516vcz.me
 0.0.0.0 olx-pl-safe.637737.me
 0.0.0.0 olx.pl-safe.cash
 0.0.0.0 olx.pl-safecash.link
@@ -17876,6 +17881,7 @@
 0.0.0.0 sancang-movies.com
 0.0.0.0 sandbella.com
 0.0.0.0 sandbox.neopaws.com
+0.0.0.0 sandefrina.online
 0.0.0.0 sandeman.xyz
 0.0.0.0 sandneed.com
 0.0.0.0 sandomir.pl
@@ -18103,7 +18109,9 @@
 0.0.0.0 servacc-vernou.showtvko.cfd
 0.0.0.0 servacc-vernou.showtvko.live
 0.0.0.0 servacc-vernou.showtvko.today
+0.0.0.0 servacc-vernou.tvshowsca.digital
 0.0.0.0 servacc-vernou.tvshowsco.digital
+0.0.0.0 servacc-vernou.tvshowsco.live
 0.0.0.0 servant-pl-fa.website
 0.0.0.0 servebro.d3e41lumzevlo0.amplifyapp.com
 0.0.0.0 server012121.nazwa.pl
@@ -18679,6 +18687,7 @@
 0.0.0.0 sniadaniowaklasa.pl
 0.0.0.0 snicholsontri.com
 0.0.0.0 snohmtegam.xyz
+0.0.0.0 snulkio.uno
 0.0.0.0 snulya-xyz.preview-domain.com
 0.0.0.0 sobotnie-newsy.waw.pl
 0.0.0.0 socialadvertise.com
@@ -19473,6 +19482,7 @@
 0.0.0.0 tarcienapokladzie.site
 0.0.0.0 tarmigohalusing.tarungdrajatsiokalama.com
 0.0.0.0 tart.slopp.xyz
+0.0.0.0 tasdorf.xyz
 0.0.0.0 tasectan.se
 0.0.0.0 tastebuddy.se
 0.0.0.0 tastedeputy.info
@@ -20215,6 +20225,7 @@
 0.0.0.0 tronte.xyz
 0.0.0.0 troorl.site
 0.0.0.0 tropienie-przestepcow.eu
+0.0.0.0 tropimy-przestepce.eu
 0.0.0.0 tropis.pl
 0.0.0.0 trotopup.xyz
 0.0.0.0 troycomp.xyz
@@ -21575,6 +21586,7 @@
 0.0.0.0 wnioski-kredytowe.pl
 0.0.0.0 wnioski-z-obiektywu24.xyz
 0.0.0.0 wnrne.com
+0.0.0.0 wobancrorebols.ga
 0.0.0.0 wockwa.com
 0.0.0.0 woda-przekonywanie.site
 0.0.0.0 wodny388.site
@@ -27055,6 +27067,7 @@
 0.0.0.0 www.diskord.ru.com
 0.0.0.0 www.disneyembroiderycards.com
 0.0.0.0 www.disneyswap.org
+0.0.0.0 www.disocrde.gift
 0.0.0.0 www.disorde.gift
 0.0.0.0 www.disordpromotlons.com
 0.0.0.0 www.disords.gift
@@ -28533,6 +28546,7 @@
 0.0.0.0 www.fandeoma.com
 0.0.0.0 www.fandocean.com
 0.0.0.0 www.fanicalam.com
+0.0.0.0 www.fanido.tk
 0.0.0.0 www.fanplplpgeinv1-tech.info
 0.0.0.0 www.fansomencal.com
 0.0.0.0 www.fantameca.com
@@ -32390,6 +32404,7 @@
 0.0.0.0 www.kurtkanorthfacepl.com
 0.0.0.0 www.kurtkaspyderpolska.com
 0.0.0.0 www.kurtkiwyprzedaz.pl
+0.0.0.0 www.kushawahaenterprisesmaner.com
 0.0.0.0 www.kuszowka.pl
 0.0.0.0 www.kutar1.maymaxy.xyz
 0.0.0.0 www.kvs08a.webwave.dev
@@ -35518,6 +35533,7 @@
 0.0.0.0 www.o-lx-pl.provisservices.xyz
 0.0.0.0 www.olx-pl.przelew-99412.bond
 0.0.0.0 www.olx-pl.przelew-expresowy.click
+0.0.0.0 www.olx.pl-przesylka.link
 0.0.0.0 www.olx.pl-przesylka.live
 0.0.0.0 www.olx-pl.pukupka-05050.pl
 0.0.0.0 www.olx.plpuygt.xyz
@@ -35534,6 +35550,7 @@
 0.0.0.0 www.olx.pl.rek-transfer.pw
 0.0.0.0 www.olx-pl.retr-wawe.me
 0.0.0.0 www.olx-pl.rwq-11256sfsdzmk.com
+0.0.0.0 www.olx-pl.sad516vcz.me
 0.0.0.0 www.olx-pl-safe.637737.me
 0.0.0.0 www.olx.pl-safe.cash
 0.0.0.0 www.olx.pl-safecash.link
@@ -39569,6 +39586,7 @@
 0.0.0.0 www.sancang-movies.com
 0.0.0.0 www.sandbella.com
 0.0.0.0 www.sandbox.neopaws.com
+0.0.0.0 www.sandefrina.online
 0.0.0.0 www.sandeman.xyz
 0.0.0.0 www.sandneed.com
 0.0.0.0 www.sandomir.pl
@@ -39796,7 +39814,9 @@
 0.0.0.0 www.servacc-vernou.showtvko.cfd
 0.0.0.0 www.servacc-vernou.showtvko.live
 0.0.0.0 www.servacc-vernou.showtvko.today
+0.0.0.0 www.servacc-vernou.tvshowsca.digital
 0.0.0.0 www.servacc-vernou.tvshowsco.digital
+0.0.0.0 www.servacc-vernou.tvshowsco.live
 0.0.0.0 www.servant-pl-fa.website
 0.0.0.0 www.servebro.d3e41lumzevlo0.amplifyapp.com
 0.0.0.0 www.server012121.nazwa.pl
@@ -40372,6 +40392,7 @@
 0.0.0.0 www.sniadaniowaklasa.pl
 0.0.0.0 www.snicholsontri.com
 0.0.0.0 www.snohmtegam.xyz
+0.0.0.0 www.snulkio.uno
 0.0.0.0 www.snulya-xyz.preview-domain.com
 0.0.0.0 www.sobotnie-newsy.waw.pl
 0.0.0.0 www.socialadvertise.com
@@ -41166,6 +41187,7 @@
 0.0.0.0 www.tarcienapokladzie.site
 0.0.0.0 www.tarmigohalusing.tarungdrajatsiokalama.com
 0.0.0.0 www.tart.slopp.xyz
+0.0.0.0 www.tasdorf.xyz
 0.0.0.0 www.tasectan.se
 0.0.0.0 www.tastebuddy.se
 0.0.0.0 www.tastedeputy.info
@@ -41908,6 +41930,7 @@
 0.0.0.0 www.tronte.xyz
 0.0.0.0 www.troorl.site
 0.0.0.0 www.tropienie-przestepcow.eu
+0.0.0.0 www.tropimy-przestepce.eu
 0.0.0.0 www.tropis.pl
 0.0.0.0 www.trotopup.xyz
 0.0.0.0 www.troycomp.xyz
@@ -43268,6 +43291,7 @@
 0.0.0.0 www.wnioski-kredytowe.pl
 0.0.0.0 www.wnioski-z-obiektywu24.xyz
 0.0.0.0 www.wnrne.com
+0.0.0.0 www.wobancrorebols.ga
 0.0.0.0 www.wockwa.com
 0.0.0.0 www.woda-przekonywanie.site
 0.0.0.0 www.wodny388.site
@@ -46739,7 +46763,7 @@ kontera.com
 kt-g.de
 ktu.sv2.biz
 lakequincy.com
-# Last modified: Sat, 29 Jan 2022, 12:09 UTC+01
+# Last modified: Sat, 29 Jan 2022, 16:10 UTC+01
 layer-ad.de
 layer-ads.de
 lbn.ru
@@ -47585,7 +47609,7 @@ veille-referencement.com
 velti.com
 ventivmedia.com
 vericlick.com
-# Version: 2022.1.29.0
+# Version: 2022.1.29.1
 vertadnet.com
 veruta.com
 vervemobile.com
