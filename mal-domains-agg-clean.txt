@@ -168,6 +168,7 @@
 224niemarnujswojegoczassu.cyou
 224wydarzenia.pl
 228.94.92.rev.sfr.net.gghost.ru
+2354generaltrading.com
 2474.one
 247autoglass.co.za
 247deliveries.com
@@ -4416,7 +4417,6 @@ capitalimx.com
 capital-it.eu
 capitalpartnersasia.com.my
 capitalplaza.co.th
-*.capmus.org
 capmus.org
 cappadociaballoonflight.com
 caprousa.org
@@ -11643,7 +11643,9 @@ https-scert-srv02.xyz
 https-scert-srv06.xyz
 https-scert-srv08.xyz
 https-steamcommunitycorn.info
+https://www.2354generaltrading.com
 http-tvn-facebook.com.pl
+http://www.2354generaltrading.com
 huangtuotony.com
 huawei-detali.ru
 hubeiuv.com
