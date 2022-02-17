@@ -7374,6 +7374,7 @@
 0.0.0.0 airefcoinc.actonservice.com
 0.0.0.0 airfunstoriez.com
 0.0.0.0 air.hitachiaircon.com
+0.0.0.0 air-invests.web.app
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
 0.0.0.0 air.me1.pub.unlt4bs.pl
 0.0.0.0 airmore.co
@@ -13383,6 +13384,7 @@
 0.0.0.0 bricaeca.com
 0.0.0.0 bricklblock.io
 0.0.0.0 bricksandstonesgossip.us.intellitxt.com
+0.0.0.0 bridasa.site
 0.0.0.0 bride1.com
 0.0.0.0 brideofmessiah.com
 0.0.0.0 bridge.lga1.admarketplace.net
@@ -18982,6 +18984,7 @@
 0.0.0.0 cumc-hmb.com
 0.0.0.0 cumulativenesscumulativeness.com
 0.0.0.0 cunda.d3.sc.omtrdc.net
+0.0.0.0 cunsod.host
 0.0.0.0 cuntwars.com
 0.0.0.0 cuockureing.com
 0.0.0.0 cuosdemakadi.gq
@@ -35443,6 +35446,7 @@
 0.0.0.0 inpost-xekv.id-845.me
 0.0.0.0 inpost-xhk.id-3842.me
 0.0.0.0 inpost-x.id-43895.me
+0.0.0.0 inpost-yzxf.20594901919.me
 0.0.0.0 inpost-zamowienie.pl
 0.0.0.0 inpozt.pl-4354856.xyz
 0.0.0.0 in-projj.web.app
@@ -47412,6 +47416,8 @@
 0.0.0.0 olx-pl.134577.space
 0.0.0.0 olx-pl.166dzxdss-41.com
 0.0.0.0 olx-pl.188413.xyz
+0.0.0.0 olx-pl.1oplomre1.bond
+0.0.0.0 olx-pl.1terass1.click
 0.0.0.0 olx-pl.271712.xyz
 0.0.0.0 olx-pl.321156.xyz
 0.0.0.0 olx-pl.3dpay.shop
@@ -47442,6 +47448,7 @@
 0.0.0.0 olx-pl.8453713-mycash-info.xyz
 0.0.0.0 olx-pl.871345.xyz
 0.0.0.0 olx-pl.876127.xyz
+0.0.0.0 olx-pl.882124.xyz
 0.0.0.0 olx-pl.897144.xyz
 0.0.0.0 olx-pl.897643.xyz
 0.0.0.0 olx-pl.901723.xyz
@@ -47491,6 +47498,7 @@
 0.0.0.0 olx-plfamj.ownoffferta.cc
 0.0.0.0 olx-pl.fas5gasz.com
 0.0.0.0 olx-pl.foiuq-iq.com
+0.0.0.0 olx-pl.fortun-iq.com
 0.0.0.0 olx-plfyrv.ownoffferta.cc
 0.0.0.0 olx-pl.g15qwr-zx515.me
 0.0.0.0 olx-pl.gast-125x.shop
@@ -47775,6 +47783,7 @@
 0.0.0.0 olx.pl.transbuyingite.pw
 0.0.0.0 olxpl-transfer.site
 0.0.0.0 olx.pl.transport-pr.pw
+0.0.0.0 olx-pl.trazaakcja0.com
 0.0.0.0 olx-pl.trens-po512.pro
 0.0.0.0 olx-pl.trwa-dann.me
 0.0.0.0 olx-pl.twoj-produ.xyz
@@ -47799,6 +47808,7 @@
 0.0.0.0 olx.pl-zakupy.icu
 0.0.0.0 olx-pl.zakupy-internetowe.click
 0.0.0.0 olx.pl-zamawienie.shop
+0.0.0.0 olx-pl.zamo21gf2n.sbs
 0.0.0.0 olx.pl-zamowienie.shop
 0.0.0.0 olx-pl.zdjcie-pod.com
 0.0.0.0 olx-pl-zff.id-43980.me
@@ -52380,6 +52390,7 @@
 0.0.0.0 polska-ollx.order-id264738.xyz
 0.0.0.0 polska-olx.74256.xyz
 0.0.0.0 polska-olx.783843.xyz
+0.0.0.0 polska-olx.984951.xyz
 0.0.0.0 polska-olx.order-926468.space
 0.0.0.0 polska-olx.order-id10743.space
 0.0.0.0 polska-olx.order-id269875.xyz
@@ -54345,6 +54356,7 @@
 0.0.0.0 qingtianxcx.top
 0.0.0.0 qioknibacond.com
 0.0.0.0 qip.magna.ru
+0.0.0.0 qismian.xyz
 0.0.0.0 qitdsl.ralf.ru
 0.0.0.0 qjh43q.webwave.dev
 0.0.0.0 qjxiyt.respect-shoes.ru
@@ -69939,6 +69951,7 @@
 0.0.0.0 vinted-obc.id98325.me
 0.0.0.0 vinted-pl.136734.xyz
 0.0.0.0 vinted-pl.166dzxdss-41.com
+0.0.0.0 vinted-pl.1oplomre1.bond
 0.0.0.0 vinted-pl.287473.space
 0.0.0.0 vinted-pl.746485.xyz
 0.0.0.0 vinted-pl.892733.xyz
@@ -74270,6 +74283,7 @@
 0.0.0.0 www.airclimat.com.ua
 0.0.0.0 www.airfrance.life
 0.0.0.0 www.airfunstoriez.com
+0.0.0.0 www.air-invests.web.app
 0.0.0.0 www.air.me1.pub.unlt4bs.pl
 0.0.0.0 www.airmore.co
 0.0.0.0 www.airmore.pl
@@ -76290,6 +76304,7 @@
 0.0.0.0 www.brewboys.nl
 0.0.0.0 www.brewingcloud.com
 0.0.0.0 www.bricaeca.com
+0.0.0.0 www.bridasa.site
 0.0.0.0 www.bride1.com
 0.0.0.0 www.bridgeportisd.instructure.com
 0.0.0.0 www.bridgetodonnell.net
@@ -77953,6 +77968,7 @@
 0.0.0.0 www.cultsneaks.pl
 0.0.0.0 www.cumbiaswive.com
 0.0.0.0 www.cumulativenesscumulativeness.com
+0.0.0.0 www.cunsod.host
 0.0.0.0 www.cuockureing.com
 0.0.0.0 www.cuosdemakadi.gq
 0.0.0.0 www.cu-pl2.cuspl00.site
@@ -85346,6 +85362,7 @@
 0.0.0.0 www.inpost-xekv.id-845.me
 0.0.0.0 www.inpost-xhk.id-3842.me
 0.0.0.0 www.inpost-x.id-43895.me
+0.0.0.0 www.inpost-yzxf.20594901919.me
 0.0.0.0 www.inpost-zamowienie.pl
 0.0.0.0 www.inpozt.pl-4354856.xyz
 0.0.0.0 www.in-projj.web.app
@@ -90256,6 +90273,8 @@
 0.0.0.0 www.olx-pl.134577.space
 0.0.0.0 www.olx-pl.166dzxdss-41.com
 0.0.0.0 www.olx-pl.188413.xyz
+0.0.0.0 www.olx-pl.1oplomre1.bond
+0.0.0.0 www.olx-pl.1terass1.click
 0.0.0.0 www.olx-pl.271712.xyz
 0.0.0.0 www.olx-pl.321156.xyz
 0.0.0.0 www.olx-pl.3dpay.shop
@@ -90286,6 +90305,7 @@
 0.0.0.0 www.olx-pl.8453713-mycash-info.xyz
 0.0.0.0 www.olx-pl.871345.xyz
 0.0.0.0 www.olx-pl.876127.xyz
+0.0.0.0 www.olx-pl.882124.xyz
 0.0.0.0 www.olx-pl.897144.xyz
 0.0.0.0 www.olx-pl.897643.xyz
 0.0.0.0 www.olx-pl.901723.xyz
@@ -90336,6 +90356,7 @@
 0.0.0.0 www.olx-plfamj.ownoffferta.cc
 0.0.0.0 www.olx-pl.fas5gasz.com
 0.0.0.0 www.olx-pl.foiuq-iq.com
+0.0.0.0 www.olx-pl.fortun-iq.com
 0.0.0.0 www.olx-plfyrv.ownoffferta.cc
 0.0.0.0 www.olx-pl.g15qwr-zx515.me
 0.0.0.0 www.olx-pl.gast-125x.shop
@@ -90623,6 +90644,7 @@
 0.0.0.0 www.olx.pl.transbuyingite.pw
 0.0.0.0 www.olxpl-transfer.site
 0.0.0.0 www.olx.pl.transport-pr.pw
+0.0.0.0 www.olx-pl.trazaakcja0.com
 0.0.0.0 www.olx-pl.trens-po512.pro
 0.0.0.0 www.olx-pl.trwa-dann.me
 0.0.0.0 www.olx-pl.twoj-produ.xyz
@@ -90647,6 +90669,7 @@
 0.0.0.0 www.olx.pl-zakupy.icu
 0.0.0.0 www.olx-pl.zakupy-internetowe.click
 0.0.0.0 www.olx.pl-zamawienie.shop
+0.0.0.0 www.olx-pl.zamo21gf2n.sbs
 0.0.0.0 www.olx.pl-zamowienie.shop
 0.0.0.0 www.olx-pl.zdjcie-pod.com
 0.0.0.0 www.olx-pl-zff.id-43980.me
@@ -93292,6 +93315,7 @@
 0.0.0.0 www.polska-ollx.order-id264738.xyz
 0.0.0.0 www.polska-olx.74256.xyz
 0.0.0.0 www.polska-olx.783843.xyz
+0.0.0.0 www.polska-olx.984951.xyz
 0.0.0.0 www.polska-olx.order-926468.space
 0.0.0.0 www.polska-olx.order-id10743.space
 0.0.0.0 www.polska-olx.order-id269875.xyz
@@ -94319,6 +94343,7 @@
 0.0.0.0 www.qigongexercise.com
 0.0.0.0 www.qikpoints.com
 0.0.0.0 www.qioknibacond.com
+0.0.0.0 www.qismian.xyz
 0.0.0.0 www.qjh43q.webwave.dev
 0.0.0.0 www.qksrv.net  #[Tracking.Cookie]
 0.0.0.0 www.qksz.net
@@ -99018,6 +99043,7 @@
 0.0.0.0 www.vinted-obc.id98325.me
 0.0.0.0 www.vinted-pl.136734.xyz
 0.0.0.0 www.vinted-pl.166dzxdss-41.com
+0.0.0.0 www.vinted-pl.1oplomre1.bond
 0.0.0.0 www.vinted-pl.287473.space
 0.0.0.0 www.vinted-pl.746485.xyz
 0.0.0.0 www.vinted-pl.892733.xyz
@@ -100404,6 +100430,7 @@
 0.0.0.0 www.xediatel.com
 0.0.0.0 www.xed.pl
 0.0.0.0 www.xeechy.xyz
+0.0.0.0 www.xentana.site
 0.0.0.0 www.xeroshoes-polska.com
 0.0.0.0 www.xeroshoespolska.com
 0.0.0.0 www.xeroshoespolska.pw
@@ -101338,6 +101365,7 @@
 0.0.0.0 xenical.3.p2l.info
 0.0.0.0 xenical.4.p2l.info
 0.0.0.0 xen-media.com
+0.0.0.0 xentana.site
 0.0.0.0 xeroshoes-polska.com
 0.0.0.0 xeroshoespolska.com
 0.0.0.0 xeroshoespolska.pw
@@ -106728,7 +106756,7 @@ lakewoodmediagroup.net
 # [largosoft.co.kr]
 # Last modified: 10 Feb 2022 16:01 UTC+7
 # Last modified: Sun, 13 Feb 2022, 21:08 UTC+01
-# Last modified: Thu, 17 Feb 2022, 09:09 UTC+01
+# Last modified: Thu, 17 Feb 2022, 13:10 UTC+01
 # Last updated: 2022-02-13 23:53:05 (UTC)                      #
 # last updated:   Fri, 04 Feb 2022 22:38:06 GMT
 # Last updated: Mon, 17 Jan 2022 at 23:43:29 GMT
@@ -109347,7 +109375,7 @@ vericlick.com
 # [verizon.com]
 # [verizonwireless.com]
 # Version: 2022.2.13.6
-# Version: 2022.2.17.0
+# Version: 2022.2.17.1
 # Version: 2202101601
 ##### Version Information #
 ##### Version Information ##
